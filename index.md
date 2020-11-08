@@ -1,17 +1,17 @@
-### Personal Project Portfolio
-# by Robert Evans
+# Personal Project Portfolio
+#### by Robert Evans
 
 Some recent project examples
 
-### Flutter projects
+## Flutter projects
 
-## First player picker
+### First player picker
 
 A mobile app for picking first player in board games
 
 Mobile download [Google Play Store](https://play.google.com/store/apps/details?id=com.robert_evans.first_player_picker)
 
-## Swarm intelligence
+### Swarm intelligence
 
 View the swarm
 
@@ -20,6 +20,6 @@ View the swarm
   style="width:100%; height:600px;"
 ></iframe>
 
-### Support or Contact
+## Contact
 
 robertsevans10@gmail.com
