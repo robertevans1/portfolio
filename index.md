@@ -1,4 +1,4 @@
-# Personal Project Portfolio
+<title>Personal Project Portfolio</title>
 #### by Robert Evans
 
 Some recent project examples
