@@ -1,9 +1,8 @@
-% Personal Project Portfolio
-
-#### by Robert Evans
-
-Some recent project examples
-
+<header>
+Personal Project Portfolio
+============
+</header>
+<main>
 ## Flutter projects
 
 ### First player picker
@@ -29,3 +28,7 @@ View the swarm
 ## Contact
 
 robertsevans10@gmail.com
+</main>
+
+% 
+
