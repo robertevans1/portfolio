@@ -1,8 +1,6 @@
-<header>
-Personal Project Portfolio
-============
-</header>
-<main>
+---
+title:  "Personal Project Portfolio"
+---
 ## Flutter projects
 
 ### First player picker
@@ -28,7 +26,6 @@ View the swarm
 ## Contact
 
 robertsevans10@gmail.com
-</main>
 
-% 
+
 
