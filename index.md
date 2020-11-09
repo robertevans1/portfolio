@@ -1,6 +1,8 @@
 ---
 title:  "Personal Project Portfolio"
 ---
+by Robert Evans
+
 ## Flutter projects
 
 ### First player picker
@@ -16,7 +18,7 @@ Mobile download [Google Play Store](https://play.google.com/store/apps/details?i
 
 ### Swarm intelligence
 
-View the swarm
+An implementation of 'Boids' algorithm to demonstrate flocking
 
 <iframe
   src="flutter_apps/swarm_theory/boids.html"
